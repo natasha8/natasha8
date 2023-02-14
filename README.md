@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natasha8" alt="natasha8" /></a> </p>
 
-- 🔭 I’m currently working on **DevShed**
+- 🔭 I’m currently looking for a job as **Frontend developer**
 
 - 💬 Ask me about **everthing**
 
