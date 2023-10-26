@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Natasha</h1>
 <h3 align="center">A <span style="color:red"> passionate </span> Full-Stack Developer and a curious Data Science Student</h3>
 
+https://natashaparisella.vercel.app/
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natasha8&label=Profile%20views&color=0e75b6&style=flat" alt="natasha8" /> </p>
-[MY PORTFOLIO](https://natashaparisella.vercel.app/)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natasha8" alt="natasha8" /></a> </p>
 
 - 🔭 I'm a **FULL STACK WEB DEVELOPER** currently studying **DATA SCIENCE** at WBS
