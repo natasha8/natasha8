@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natasha8" alt="natasha8" /></a> </p>
 
-- 🔭 I’m currently looking for a job as **Frontend developer**
+- 🔭 I'm a **FULL STACK WEB DEVELOPER** I’m currently studying **DATA SCIENCE** at WBS
 
-- 💬 Ask me about **everthing**
+- 💬 Ask me about **everything**
 
-- 📫 How to reach me **incepted.dev@gmail.com**
+- 📫 How to reach me DEV **incepted.dev@gmail.com** DATA SCIENCE **natparisella.ds@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
