@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natasha8" alt="natasha8" /></a> </p>
 
-- 🔭 I'm a **FULL STACK WEB DEVELOPER** I’m currently studying **DATA SCIENCE** at WBS
+- 🔭 I'm a **FULL STACK WEB DEVELOPER** currently studying **DATA SCIENCE** at WBS
 
 - 💬 Ask me about **everything**
 
