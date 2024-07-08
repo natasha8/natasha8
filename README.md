@@ -5,8 +5,6 @@
   
   🌍  I'm based in Berlin
   
-  🖥️  See my portfolio at [HERE](http://natashaparisella.vercel.app/)
-  
   🧠  I'm learning DATA SCIENCE
   
   📫 How to reach me **incepted.dev@gmail.com**
