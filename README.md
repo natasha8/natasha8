@@ -5,7 +5,7 @@
   
   🌍  I'm based in Berlin
   
-  🧠  I'm learning DATA SCIENCE
+  🧠  AI Enthusiast
   
   📫 How to reach me **incepted.dev@gmail.com**
 
