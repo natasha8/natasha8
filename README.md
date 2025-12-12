@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natasha</h1>
-<h3 align="center">Junior Data Scientist with a Full-Stack Web Development backgroud</h3>
+<h3 align="center">Full-Stack Web Development with Data Science </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natasha8&label=Profile%20views&color=0e75b6&style=flat" alt="natasha8" /> </p>
   
