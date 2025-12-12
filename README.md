@@ -7,7 +7,7 @@
   
   🧠  AI Enthusiast
   
-  📫 How to reach me **incepted.dev@gmail.com**
+  📫 How to reach me **nat.parisella@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
